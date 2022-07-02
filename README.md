@@ -8,11 +8,9 @@ I currently work at Hydro One (Mississauga, ON) as an AMI Network Analyst (Co-op
 
 <br/>
 
-Outside of work, I have utilized my skills and passion for programming and have created various projects. Some of technologies I have used include: 
+Outside of work, I have utilized my skills and passion for programming and have created various projects. Some of technologies I have used include:  JavaScript ES6+, React.js, Node.js, Python, Matlab , HTML + CSS and more!
 
 <br/>
-
-JavaScript ES6+, React.js, Node.js, Python, Matlab , HTML + CSS and more!
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [rasool.ca](http://rasool.ca)
